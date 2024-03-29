@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(186, 241, 186);
+}
+h1,h2,h3 {
+    font-style: normal;
+    color: rgb(112, 0, 0);
+}
+
+.link {
+    font-size: 14px;
+    color: green;
+    background-color:lightgreen;
+    text-decoration: none;
+    display: inline-block;
+    margin: 2px;
+    border: 10px;
+    padding: 10px;
+    position: fixed;
+    bottom: 2px;
+    right: 20px;
+}
+.link:hover {
+    transition-duration: 0.4s;
+    background-color: red;
+    color: lightblue;
+}
+img {
+    width: 200px;
+    height: auto;
+}
