@@ -1,0 +1,15 @@
+html {
+    background-color: bisque;
+}
+
+h1 {
+    font-style: italic;
+    color: peru;
+    border-style: inset;
+    background-color: white;
+    text-align: center;
+}
+.rake .links{
+    font-style: oblique;
+    color: rgb(141, 99, 43);
+}
